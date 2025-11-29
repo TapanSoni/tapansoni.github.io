@@ -9,7 +9,7 @@ Ingredients
 
 Method
 ======
-1. Flour + salt + yeast + sugar + water => mix
+1. Flour + salt + yeast + sugar + olive oil + water => mix
 2. Knead for 10 mins
 3. Rest for 30 mins
 4. Divide into equal portions - I usually do 2 per recipe > cover with some oil > into the fridge overnight - 2 days is better if you have the time
