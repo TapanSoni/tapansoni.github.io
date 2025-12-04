@@ -1,7 +1,6 @@
 Cool, you made it to my website.
 Here is a 🍪
 
-1. <a href="recipes/pizzadough.md" target="_blank">Pizza dough</a>
-2. <a href="recipes/bagels.md" target="_blank">Bagels</a>
-3. <a href="recipes/c4.md" target="_blank">C4s</a>
-4. [C4s](recipes/c4.md)
+1. [Pizza dough](recipes/pizzadough.md)
+2. [Bagels](recipes/bagels.md)
+3. [C4s](recipes/c4.md)
