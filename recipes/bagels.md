@@ -1,15 +1,14 @@
 # Bagels
 
-Ingredients
-===========
+### Ingredients
+
 1. 100% bread flour
 2. 2.5% salt
 3. 57% water
 4. 2.5% sugar
 5. 0.25% yeast
 
-Example Measurements
-====================
+### Example Measurements
 
 This creates enough dough for about 7-8 bagels - depending on how big you make the bagels
 
@@ -19,8 +18,8 @@ This creates enough dough for about 7-8 bagels - depending on how big you make t
 5. 2.5 grams - yeast (I use Fleischmann's instant dry yeast - but active dry yeast works too)
 6. 285 grams - water (can be normal room temp - no need for warm water)
 
-Method
-======
+### Method
+
 1. Flour + salt + yeast + sugar + water => mix until the water has been absorbed - about 2 mins
 2. Knead for about 10 mins - or until window pane test passes
 3. Rest for 30 mins to 1 hour
