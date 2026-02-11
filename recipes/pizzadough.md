@@ -7,6 +7,17 @@ Ingredients
 5. 2.5% olive oil
 6. 0.25% yeast
 
+Example Measurements
+
+This creates enough dough for 2 decent size pizzas - depending on how you divide them
+
+1. 500 grams - bread flour
+2. 12.5 grams - salt
+3. 12.5 grams - sugar
+4. 12.5 grams - olive oil
+5. 2.5 grams - yeast (I use Fleischmann's instant dry yeast - but active dry yeast works too)
+6. 300 grams - water (can be normal room temp - no need for warm water)
+
 Method
 ======
 1. Flour + salt + yeast + sugar + olive oil + water => mix
