@@ -1,7 +1,7 @@
 # Tiramisu
 
-Ingredients
-===========
+### Ingredients
+
 1. 16 oz Mascarpone cheese - 450 grams
 2. 4 egg yolks
 3. 2/3 cup of granulated sugar - 133 grams
@@ -12,8 +12,8 @@ Ingredients
 8. Strong black coffee - espresso preferred - about 1.5 cups cooled down to room temp
 9. Cocoa powder - for dusting
 
-Method
-======
+### Method
+
 1. Mascarpone cheese -> Whip on medium for 30 to 60 secs
 2. In a bowl - egg yolks + sugar -> put over a LOW double boiler - whip on medium/high for 2 mins - DO NOT overmix
 3. Whipped mascarpone cheese + egg yolks & sugar mixture + salt + vanilla -> mix/whip until JUST COMBINED - DO NOT overmix
