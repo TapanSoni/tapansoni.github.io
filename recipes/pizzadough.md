@@ -8,6 +8,7 @@ Ingredients
 6. 0.25% yeast
 
 Example Measurements
+--------------------
 
 This creates enough dough for 2 decent size pizzas - depending on how you divide them
 
