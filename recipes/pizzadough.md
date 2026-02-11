@@ -21,8 +21,8 @@ This creates enough dough for 2 decent size pizzas - depending on how you divide
 
 Method
 ======
-1. Flour + salt + yeast + sugar + olive oil + water => mix
-2. Knead for 10 mins
+1. Flour + salt + yeast + sugar + olive oil + water => mix until the water has been absorbed - about 2 mins
+2. Knead for about 10 mins - or until window pane test passes
 3. Rest for 30 mins
 4. Divide into equal portions - I usually do 2 per recipe > cover with some oil > into the fridge overnight - 2 days is better if you have the time
 5. Bring it out 3-4 hours before making the pizza to bring it up to room temp (very important)
