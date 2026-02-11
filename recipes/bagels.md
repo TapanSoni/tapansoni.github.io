@@ -1,7 +1,7 @@
 # Bagels
 
 ### Ingredients
-
+===============
 1. 100% bread flour
 2. 2.5% salt
 3. 57% water
