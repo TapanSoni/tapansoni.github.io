@@ -1,7 +1,7 @@
 # Pizza Dough
 
-Ingredients
-===========
+### Ingredients
+
 1. 100% bread flour
 2. 2.5% salt
 3. 60% water
@@ -9,8 +9,7 @@ Ingredients
 5. 2.5% olive oil
 6. 0.25% yeast
 
-Example Measurements
-====================
+### Example Measurements
 
 This creates enough dough for 2 decent size pizzas - depending on how you divide them
 
@@ -21,8 +20,8 @@ This creates enough dough for 2 decent size pizzas - depending on how you divide
 5. 2.5 grams - yeast (I use Fleischmann's instant dry yeast - but active dry yeast works too)
 6. 300 grams - water (can be normal room temp - no need for warm water)
 
-Method
-======
+### Method
+
 1. Flour + salt + yeast + sugar + olive oil + water => mix until the water has been absorbed - about 2 mins
 2. Knead for about 10 mins - or until window pane test passes
 3. Rest for 30 mins
